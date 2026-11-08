@@ -1,0 +1,22 @@
+{
+  "title": "Quest 4: The Voice of the Oracle",
+  "stages": [
+    {
+      "question": "Write the empty help texts in telescope.py (Part 1). Then run `python check.py --part 1`. What word did the checker give you?",
+      "answer_sha256": "261b152862d1d614014496a635018719d34bb3965c5bd7a9f7bbebc7cd8b8696"
+    },
+    {
+      "question": "Show the default values in the help (Part 2). Then run `python check.py --part 2`. What word did the checker give you?",
+      "answer_sha256": "4726a1bce9706083939a56b88b657a4c6fe83d9ae0543889df2938517ed1e4f5"
+    },
+    {
+      "question": "Write the description and the examples (Part 3). Then run `python check.py --part 3`. What word did the checker give you?",
+      "answer_sha256": "8a62e967fcd6dfa5d75308c37808b4668a7faf1cdb06e09ac0a7161827603887"
+    },
+    {
+      "question": "Add the commands and their help to your team's game (Part 4). Then run `python check.py --part 4 YOUR-ID/YOUR-GAME`. What word did the checker give you?",
+      "answer_sha256": "ca6e99a67a7a8aa26bc06888370d71fb66f111b0cef45f80ec223f664bda8367"
+    }
+  ],
+  "submit_url": "https://github.com/kwaka1208/guild-hq/issues/new/choose"
+}
