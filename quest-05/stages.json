@@ -1,0 +1,26 @@
+{
+  "title": "Quest 5: The Great Library",
+  "stages": [
+    {
+      "question": "In the Python documentation, find the function in the `math` module that returns the integer square root of a number. What is its name? (Answer with the name only, like: floor)",
+      "answer_sha256": "26166e8fa9f4d60007e9c4735917664d9e0ce5a23807896c1362071aed24274b"
+    },
+    {
+      "question": "Read the entry of that function to the end. In which version of Python was it added? (Answer with the number only, like: 3.1)",
+      "answer_sha256": "0fa04adf7214e7f48f259079f7fae9332d5c37a43070769f3d052f1a98e2952f"
+    },
+    {
+      "question": "In the Python documentation, find the `get` method of `dict`. What is the name of its second parameter?",
+      "answer_sha256": "37a8eec1ce19687d132fe29051dca629d164e2c4958ba141d5f4133a33f0688f"
+    },
+    {
+      "question": "Run `python find_star.py`. It was written for an old version of starmap. Fix it with the right documentation, and run it again. What does Vela whisper?",
+      "answer_sha256": "c1d64b2d4cb30f1be788cc4d246ddd9fc1fe85a3eb3a85a3de33829dfaf6ce7d"
+    },
+    {
+      "question": "The star Lyra is in `old.catalog`. Change `find_star.py` to find Lyra in that catalog. What does Lyra whisper?",
+      "answer_sha256": "16d74232d666243e3dd9711daaef2b7538f849efaa62cf19f91a97e82c420e34"
+    }
+  ],
+  "submit_url": "https://github.com/kwaka1208/guild-hq/issues/new/choose"
+}
