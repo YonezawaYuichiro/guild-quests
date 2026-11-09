@@ -1,5 +1,9 @@
 # Quest 2: The Kind Error
 
+> **このクエストのねらい**
+>
+> 相手を責めずに「何が起きたか」と「次に何をすればよいか」を伝える、短い英語のエラーメッセージを書きます。最後は自分たちのゲームにメッセージを組み込みます。
+
 Mira runs a small shop in the Guild. Players love the shop, but they hate its messages.
 
 "When a player makes a mistake, my shop shouts at them," says Mira.
