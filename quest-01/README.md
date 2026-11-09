@@ -1,5 +1,9 @@
 # Quest 1: The Broken Forge
 
+> **このクエストのねらい**
+>
+> Python の Traceback を下から読んで、エラーの種類と原因の場所を突き止めます。エラーが指す行と本当の原因の行は違うことがあること、連鎖した例外では根本の原因を探すことも経験します。後半は git のマージ衝突を、表示される案内文を読んで解消します。
+
 You passed the first gate. Mira takes you to the forge of the Guild.
 
 "Our smith left on a trip, and the forge is broken," says Mira.
