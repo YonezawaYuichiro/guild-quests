@@ -1,5 +1,9 @@
 # Quest 3: The Silent Oracle
 
+> **このクエストのねらい**
+>
+> 知らないコマンドの使い方を、help の表示だけで読み解きます。usage の記号の意味、既定値、サブコマンドごとの help、説明の末尾にある補足を読みます。後半は git のドキュメントで option を調べて、目的のコミットを探します。
+
 The forge is working again. Mira takes you down a long staircase to a dark hall.
 In the middle of the hall sits the **Oracle** of the Guild.
 
