@@ -1,5 +1,9 @@
 # Quest 0: The First Gate
 
+> **このクエストのねらい**
+>
+> README を頭から全部読むのではなく、見出しを手がかりに必要な情報を探す練習です。途中でエラーが出たときも README を頼りに自分で解決し、古い情報と今の情報を見分けることを経験します。
+
 You are standing in front of the first gate of the Guild.
 The gate opens only for adventurers who can **read a README**.
 
