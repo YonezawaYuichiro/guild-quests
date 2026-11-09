@@ -1,5 +1,9 @@
 # Quest 4: The Voice of the Oracle
 
+> **このクエストのねらい**
+>
+> 前回は help を読む側でしたが、今回は書く側に回ります。argparse の慣習に沿って help テキストを英語で書き、ツールの説明と使用例も添えます。最後は自分たちのゲームの help コマンドを書きます。
+
 The Oracle has a new tool: a **telescope**. With it, the Oracle can read the sky.
 
 "I made the telescope last night," says Mira. "It works well. But look at this."
