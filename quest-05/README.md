@@ -1,5 +1,9 @@
 # Quest 5: The Great Library
 
+> **このクエストのねらい**
+>
+> Python の公式ドキュメントから、関数の名前、追加されたバージョン、引数の名前を探します。後半はライブラリのドキュメントを読みます。版によって書いてあることが違うので、自分が使っている版に合ったページを読むことを経験します。
+
 The Oracle gave you a clue: "Go to the **Great Library**. The stars will tell you the rest."
 
 The Great Library is the biggest room in the Guild. Mira opens the heavy door.
